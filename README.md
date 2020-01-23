@@ -9,7 +9,12 @@
 * Bisque
 * Phuket style buikspek
 * Boppevriese Indonesian Speklap
-* Sushi Rice Recept
 * Arancina
 * Kip Kerrie Kersentaart
 * Puttanesca
+* Fried Chicken
+* Green Curry Fried Chicken
+* Noordwest Chineese Lamsribben
+* Chipotle Chorizo Tacos
+* Uyghur Pilaf
+* Rendang Bitterbal
